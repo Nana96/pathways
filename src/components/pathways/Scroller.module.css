@@ -1,0 +1,88 @@
+.graphic {
+  padding-top: 60px;
+  position: relative;
+  width: 80%;
+}
+
+.sections {
+  width: 300px;
+  top: 0px;
+  padding-bottom: 200px;
+  margin-right: 20vw;
+}
+
+.step {
+  margin-bottom: 50vh;
+  margin-top: 50vh;
+  margin-left: 20vw;
+  margin-right: 40vw;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+  line-height: 1.3rem;
+  color: #010101;
+}
+
+.firstStep {
+  line-height: "60px";
+  margin-right: "0vw";
+  margin-left: "33vw";
+  margin-top: "20vh";
+}
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.8vw;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 2px;
+  color: #010101;
+  line-height: 1.6vw;
+}
+
+.date {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+  font-weight: normal;
+  margin-bottom: 2px;
+  color: #010101;
+  line-height: 1.3rem;
+}
+
+#extra-space {
+  height: 300px;
+}
+
+.vis {
+  position: fixed;
+  top: 0px;
+  height: 100vh;
+  width: 100vw;
+  background-color: #e6e6e6;
+}
+
+.vis .title {
+  font-size: 120px;
+  text-anchor: middle;
+}
+
+.vis .sub-title {
+  font-size: 80px;
+  text-anchor: middle;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #666;
+  shape-rendering: crispEdges;
+}
+
+.highlight {
+  fill: #008080;
+  font-weight: bold;
+}
+
+.cough-arrow {
+  stroke: #000;
+  stroke-width: 4px;
+}
