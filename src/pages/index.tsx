@@ -15,7 +15,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-        <a href={"/schauspielhaus"}>Schauspielhaus - Lisa Caligagan</a>
         <a href={"/pathways"}>Pathways - Nastasja Steinhauer</a>
       </main>
     </>
