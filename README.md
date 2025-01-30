@@ -1,3 +1,4 @@
+This project was my onboarding project during my internship at Interactive Things Zurich.
 
 # Getting Started
 
